@@ -1,2 +1,2 @@
-my_code内事增加trace信息的Megatron-LM代码。
+my_code文件夹里面是增加trace信息的Megatron-LM代码。
 
